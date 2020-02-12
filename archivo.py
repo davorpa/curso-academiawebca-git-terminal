@@ -1,1 +1,1 @@
-fasdfsa
+print "Hola mundo";
